@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm **Emboxity**. I'm a discord bot developer!
 
-<!--
-**emboxity/emboxity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+- Java
+- General JS
+- Python
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## &#x1f4c8; GitHub Stats
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emboxity&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emboxity&theme=radical" alt="emboxity" /></p>
+
+ <br />
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emboxity&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+
+Want to follow me? My socials are to the left!
+<a href="">
+<a href="https://lokiiyyexe.me/shiba">
+<img align="left" alt="Shiba's Forest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/emboxity">
+<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<br />
