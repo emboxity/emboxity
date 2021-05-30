@@ -27,12 +27,4 @@ I'm **Emboxity**. I'm a discord bot developer!
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emboxity&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 
-Want to follow me? My socials are to the left!
-<a href="">
-<a href="https://lokiiyyexe.me/shiba">
-<img align="left" alt="Shiba's Forest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/emboxity">
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br />
+
