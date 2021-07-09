@@ -22,13 +22,12 @@ I'm **Emboxity**. I'm a discord bot developer!
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emboxity&theme=radical" alt="emboxity" /></p>
 
- <a href="https://github.com/emboxity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emboxity&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)" />
-</a>
  <br />
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emboxity&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
-
+<a href="https://github.com/emboxity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Emboxity&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)" />
+</a>
 
